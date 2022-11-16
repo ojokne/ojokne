@@ -16,6 +16,9 @@ I have successfully completed a few front end projects for my clients.
 1. [Bwap Constructions Company Limited](https://bwapconstructions.com)
 >For this project, I used `react.js` from start and finish
 
+## sample code
+https://github.com/ojokne/course_website/blob/9434a128a1db142245d240852148b1ef8177ce90/index.html
+
 <!-- - 👋 Hi, I’m @ojokne
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
