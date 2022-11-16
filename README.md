@@ -17,7 +17,7 @@ I have successfully completed a few front end projects for my clients.
 >For this project, I used `react.js` from start and finish
 
 ## sample code
-https://github.com/ojokne/course_website/blob/9434a128a1db142245d240852148b1ef8177ce90/index.html
+https://github.com/ojokne/socially/blob/6568c8060b1915c8b749147822baa2ee75704933/menu.js#L1-L10
 
 <!-- - 👋 Hi, I’m @ojokne
 - 👀 I’m interested in ...
