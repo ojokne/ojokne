@@ -6,16 +6,19 @@
 1. HTML5
 2. CSS3
 3. JavaScript
+4. Nodejs
 
 ## Frameworks
 1. React.js
+2. Boostrap
 
-## Projects
+
+<!-- ## Projects
 
 I have successfully completed a few front end projects for my clients.
 1. [Bwap Constructions Company Limited](https://bwapconstructions.com)
 >For this project, I used `react.js` from start and finish
-
+ -->
 
 <!-- - 👋 Hi, I’m @ojokne
 - 👀 I’m interested in ...
