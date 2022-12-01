@@ -1,35 +1,23 @@
-# My profile
+# 👋 Hi, I'm Ojok Emmanuel Nsubuga
 
-**I'm Ojok Emmanuel Nsubuga, a frontend developer with proven skills.**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojokne&show_icons=true&theme=dark&count_private=true)](https://github.com/ojokne)
-
+I am a Uganda, based in Kampala. I am developer, very interested in coming up with solutions that effectively solve problems. 
 
 ## Languages
-1. HTML5
-2. CSS3
+<!-- 1. HTML & CSS
 3. JavaScript
-4. Nodejs
+4. Java -->
+- HTML and CSS
+- JavaScript
+- Java
 
 ## Frameworks
-1. React.js
-2. Boostrap
+- React.js
+- Express.js
 
-
-<!-- ## Projects
-
-I have successfully completed a few front end projects for my clients.
-1. [Bwap Constructions Company Limited](https://bwapconstructions.com)
->For this project, I used `react.js` from start and finish
+<!-- ## 📫 How to reach me
  -->
-
 <!-- - 👋 Hi, I’m @ojokne
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
- -->
-<!---
-ojokne/ojokne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
