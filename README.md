@@ -2,7 +2,8 @@
 
 **I'm Ojok Emmanuel Nsubuga, a frontend developer with proven skills.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojokne&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojokne&show_icons=true&theme=dark&count_private=true)](https://github.com/ojokne)
+
 
 ## Languages
 1. HTML5
