@@ -2,10 +2,7 @@
 
 I am a Uganda, based in Kampala. I am developer, very interested in coming up with solutions that effectively solve problems. 
 
-## Languages
-<!-- 1. HTML & CSS
-3. JavaScript
-4. Java -->
+## Skills
 - HTML and CSS
 - JavaScript
 - Java
