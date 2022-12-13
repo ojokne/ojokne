@@ -4,9 +4,8 @@
 Hello and welcome to my Github portfolio! I am a web developer with a passion for creating beautiful and functional websites. With a strong foundation in HTML, CSS, and JavaScript, I have a proven track record of delivering high-quality web experiences for my clients. I am also skilled in Node.js and React.js, which allow me to build scalable, efficient, and user-friendly web applications.
 
 ## Skills
-- HTML and CSS
 - JavaScript
-- Java
+- HTML, CSS
 
 ## Frameworks
 - React.js
