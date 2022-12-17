@@ -11,6 +11,8 @@ Hello and welcome to my Github portfolio! I am a web developer with a passion fo
 - React.js
 - Express.js
 
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojokne)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ## 📫 How to reach me
  -->
 <!-- - 👋 Hi, I’m @ojokne
@@ -18,3 +20,4 @@ Hello and welcome to my Github portfolio! I am a web developer with a passion fo
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-->
